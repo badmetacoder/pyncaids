@@ -18,7 +18,7 @@ authority_list = nca.nca_by_partial_authority_id("FM")
 authority_list = nca.nca_by_country("United Kingdom")
 >>> [{'authority_id': 'GB-FCA', 'country': 'United Kingdom', 'authority_name': 'Financial Conduct Authority'}]
 
-authority_list = nca.nca_by_partial_country("i")
+authority_list = nca.nca_by_partial_country("it")
 >>> [{'authority_id': 'LT-BL', 'country': 'Lithuania', 'authority_name': 'Bank of Lithuania'},
 >>>  {'authority_id': 'GB-FCA', 'country': 'United Kingdom', 'authority_name': 'Financial Conduct Authority'}]
 
