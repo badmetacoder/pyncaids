@@ -33,3 +33,5 @@ authority_list = nca.nca_by_partial_authority_name("Supervisory Authority")
 >>>  {'authority_id': 'IS-FME', 'country': 'Iceland', 'authority_name': 'Financial Supervisory Authority'},
 >>>  {'authority_id': 'NO-FSA', 'country': 'Norway', 'authority_name': 'The Financial Supervisory Authority of Norway'}]
 ```
+
+Source: EBA
