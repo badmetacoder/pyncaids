@@ -2,6 +2,13 @@
 
 National Competent Authority (NCA) identifiers as a Python module
 
+## Installation
+
+```$ pip install -U pyncaids
+```
+
+## Examples
+
 ```python
 import pyncaids
 
